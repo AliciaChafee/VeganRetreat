@@ -1,0 +1,107 @@
+a {
+	color: #333;
+}
+
+a:hover {
+	color: #0062ff;
+}
+
+a:visited {
+	color: #FF0094;
+}
+
+body {
+	background-color: #30BF6C;
+	font-size: 120%;
+	font-family: sans-serif;
+	color: #333;
+}
+
+.wrapper {
+	background-color: #fff;
+	width: 1000px;
+	margin: 0 auto;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+
+}
+
+header .brand {
+	font-family: "Yellowtail", cursive;
+	font-size: 200%;
+	padding: 20px;
+	color: #333;
+}
+
+header .brand span {
+	font-family: 'Amatic SC', cursive;
+	padding: 40px;
+
+
+}
+
+h2 {
+	font-family: 'Amatic SC', cursive;
+}
+
+.hero {
+	height: 400px;
+	background: url('../img/costaRica.jpg') center no-repeat;
+
+}
+
+.faq p {
+	font-size: 90%;
+}
+
+article h2 {
+	font-size: 200%;
+	padding: 0;
+}
+
+
+
+main {
+  float: left;
+  width: 70%;
+}
+
+content {
+ overflow: hidden;
+ display: block;
+ padding: 40px;
+}
+
+aside {
+	float: right;
+}
+aside .section{
+	background-color: #FAEB3C;
+	padding: 20px;
+	
+
+}
+
+aside .section h3{
+	text-align: center;
+	color: #333;
+    text-decoration: underline;
+}
+
+aside a {
+	padding: 10px 0;
+	display: block;
+}
+
+.wrap h2 {
+	color: red;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	font-size: 90%;
+	clear: both;
+}
